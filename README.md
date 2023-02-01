@@ -1,5 +1,5 @@
 ### WELCOME TO MY PAGE 👋👋👋
-- 👋 Hi, I’m Ngoc Nguyen, My major is Network Manager and System. Now I'm working at Brother Viet Nam.
+- 👋 Hi, My name is Ngoc Nguyen, My major is Network Administrator. Now I'm working at Brother Viet Nam.
 
 ## 📫 How to reach me: 
 
