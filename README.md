@@ -1,5 +1,5 @@
 ### WELCOME TO MY PAGE 👋👋👋
-- 👋 Hi, My name is Nguyen Ngoc, My major is Network Administrator. Now I'm working at Brother Viet Nam.
+- 👋 Hi, My name is Nguyen Ngoc, My major is Network Administrator. Now I'm working at company TNHHCN Brother Viet Nam.
 
 ## 📫 How to reach me: 
 
