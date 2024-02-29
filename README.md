@@ -33,5 +33,5 @@
 
 <a href="https://github.com/SudoNguyenNN/DepOps/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=uvipen&repo=DevOps&theme=cobalt" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=SudoNguyenNN&repo=DevOps&theme=cobalt" />
 </a>  
