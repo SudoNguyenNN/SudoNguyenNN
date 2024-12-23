@@ -3,7 +3,7 @@
 
 ## 📫 How to reach me: 
 
-[![Linkedin](https://github.com/SudoNguyenNN/SudoNguyenNN/blob/main/linkdin.jpg) LinkedIn](https://www.linkedin.com/in/sudonguyennn/) [![GitHub](https://github.com/SudoNguyenNN/SudoNguyenNN/blob/main/github.jpg) GitHub](https://github.com/SudoNguyenNN/) [![Facebook](https://github.com/SudoNguyenNN/SudoNguyenNN/blob/main/fb.jpg) Facebook](https://www.facebook.com/sudo.nguyennn/)
+[![Linkedin](https://github.com/SudoNguyenNN/SudoNguyenNN/blob/main/linkedin.jpg) LinkedIn](https://www.linkedin.com/in/sudonguyennn/) [![GitHub](https://github.com/SudoNguyenNN/SudoNguyenNN/blob/main/github1.jpg) GitHub](https://github.com/SudoNguyenNN/) [![Facebook](https://github.com/SudoNguyenNN/SudoNguyenNN/blob/main/fb.jpg) Facebook](https://www.facebook.com/sudo.nguyennn/)
 
 
 ![Nguyen's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=SudoNguyenNN&show_icons=true&theme=tokyonight&hide=contribs,prs,issues)
