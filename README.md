@@ -1,5 +1,5 @@
 ### WELCOME TO MY PAGE 👋👋👋
-- 👋 Hi, My name is Nguyen Ngoc, My major is Network Administrator. Now I'm working at VietCredit Finace Company
+- 👋 Hi, My name is Nguyen Ngoc, My major is IT System. Now I'm working at Mitsubisi Electric Company
 
 ## 📫 How to reach me: 
 
