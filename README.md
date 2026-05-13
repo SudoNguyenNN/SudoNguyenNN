@@ -8,6 +8,8 @@
 
 ![Nguyen's github stats]([https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=SudoNguyenNN&show_icons=true&theme=tokyonight&hide=contribs,prs,issues](https://github.com/SudoNguyenNN/SudoNguyenNN/blob/main/github1.jpg))
 
+[![Nguyen's github stats](https://github-readme-stats.vercel.app/api?username=SudoNguyenNN&show_icons=true&theme=tokyonight&hide=contribs,prs,issues)](https://github.com/SudoNguyenNN)
+
 
 <a href="https://github.com/SudoNguyenNN/CCNA/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
