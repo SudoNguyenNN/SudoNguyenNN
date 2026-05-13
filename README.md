@@ -6,13 +6,7 @@
 [![Linkedin](https://github.com/SudoNguyenNN/SudoNguyenNN/blob/main/linkedin.jpg) LinkedIn](https://www.linkedin.com/in/sudonguyennn/) [![GitHub](https://github.com/SudoNguyenNN/SudoNguyenNN/blob/main/github1.jpg) GitHub](https://github.com/SudoNguyenNN/) [![Facebook](https://github.com/SudoNguyenNN/SudoNguyenNN/blob/main/fb.jpg) Facebook](https://www.facebook.com/sudo.nguyennn/)
 
 
-![Nguyen's github stats]([https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=SudoNguyenNN&show_icons=true&theme=tokyonight&hide=contribs,prs,issues](https://github.com/SudoNguyenNN/SudoNguyenNN/blob/main/github1.jpg))
-
 ![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SudoNguyenNN&theme=github_dark)
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=SudoNguyenNN&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
 
 
 <a href="https://github.com/SudoNguyenNN/CCNA/">
