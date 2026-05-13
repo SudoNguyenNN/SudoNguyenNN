@@ -10,7 +10,9 @@
 
 ![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SudoNguyenNN&theme=github_dark)
 
-<img src="https://github-readme-stats.vercel.app/api?username=SudoNguyenNN&show_icons=true&theme=tokyonight&hide_border=true" />
+<p align="center">
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=SudoNguyenNN&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
 
 
 <a href="https://github.com/SudoNguyenNN/CCNA/">
