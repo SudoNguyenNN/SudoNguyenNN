@@ -8,7 +8,7 @@
 
 ![Nguyen's github stats]([https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=SudoNguyenNN&show_icons=true&theme=tokyonight&hide=contribs,prs,issues](https://github.com/SudoNguyenNN/SudoNguyenNN/blob/main/github1.jpg))
 
-[![Nguyen's github stats](https://github-readme-stats.vercel.app/api?username=SudoNguyenNN&show_icons=true&theme=tokyonight&hide=contribs,prs,issues)](https://github.com/SudoNguyenNN)
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SudoNguyenNN&theme=github_dark)
 
 
 <a href="https://github.com/SudoNguyenNN/CCNA/">
