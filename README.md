@@ -44,25 +44,23 @@
 =====================
 
 <p align="center">
+  <a href="https://github.com/SudoNguyenNN/Network-Fun/">
+    <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=SudoNguyenNN&repo=Network-Fun&theme=gruvbox" />
+  </a>
 
-<a href="https://github.com/SudoNguyenNN/Network-Fun">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SudoNguyenNN&repo=Network-Fun&theme=tokyonight" />
-</a>
+  <a href="https://github.com/SudoNguyenNN/Linux_Basic/">
+    <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=SudoNguyenNN&repo=Linux_Basic&theme=cobalt" />
+  </a>
 
-<a href="https://github.com/SudoNguyenNN/Linux_Basic">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SudoNguyenNN&repo=Linux_Basic&theme=merko" />
-</a>
+  <a href="https://github.com/SudoNguyenNN/Administrator-Security/">
+    <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=SudoNguyenNN&repo=Administrator-Security&theme=synthwave" />
+  </a>
 
-<a href="https://github.com/SudoNguyenNN/Administrator-Security">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SudoNguyenNN&repo=Administrator-Security&theme=radical" />
-</a>
+  <a href="https://github.com/SudoNguyenNN/DepOps/">
+    <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=SudoNguyenNN&repo=DepOps&theme=highcontrast" />
+  </a>
 
-<a href="https://github.com/SudoNguyenNN/DepOps">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SudoNguyenNN&repo=DepOps&theme=github_dark" />
-</a>
-
-<a href="https://github.com/SudoNguyenNN/AWS">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SudoNguyenNN&repo=AWS&theme=blue-green" />
-</a>
-
+  <a href="https://github.com/SudoNguyenNN/AWS">
+    <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=SudoNguyenNN&repo=AWS&theme=cobalt" />
+  </a>
 </p>
