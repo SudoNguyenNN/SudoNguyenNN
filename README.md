@@ -35,3 +35,8 @@
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=SudoNguyenNN&repo=DepOps&theme=highcontrast" />
 </a>  
+
+<a href="https://github.com/SudoNguyenNN/AWS/">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=SudoNguyenNN&repo=Linux_Basic&theme=cobalt" />
+</a>  
