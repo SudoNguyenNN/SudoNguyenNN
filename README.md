@@ -38,6 +38,6 @@
 
 <a href="https://github.com/SudoNguyenNN/AWS">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=SudoNguyenNN&repo=AWS&theme=cobalt" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=SudoNguyenNN&repo=AWS&theme=dracula" />
 </a>  
 
