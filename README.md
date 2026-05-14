@@ -7,6 +7,13 @@
 
 ![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SudoNguyenNN&theme=github_dark)
 
+## 📊 GitHub Statistics
+
+<img 
+  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SudoNguyenNN&theme=github_dark" 
+  width="100%"
+/>
+
 <a href="https://github.com/SudoNguyenNN/CCNA/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=SudoNguyenNN&repo=CCNA&theme=radical" />
