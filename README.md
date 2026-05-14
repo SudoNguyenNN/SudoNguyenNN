@@ -43,24 +43,32 @@
 
 =====================
 
-<p align="center">
-  <a href="https://github.com/SudoNguyenNN/Network-Fun">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SudoNguyenNN&repo=Network-Fun&theme=tokyonight" />
-  </a>
+<!-- ================= NETWORK ================= -->
+<a href="https://github.com/SudoNguyenNN/Network-Fun">
+  <img align="center"
+    src="https://github-readme-stats.vercel.app/api/pin/?username=SudoNguyenNN&repo=Network-Fun&theme=tokyonight" />
+</a>
 
-  <a href="https://github.com/SudoNguyenNN/Linux_Basic">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SudoNguyenNN&repo=Linux_Basic&theme=merko" />
-  </a>
+<!-- ================= LINUX ================= -->
+<a href="https://github.com/SudoNguyenNN/Linux_Basic">
+  <img align="center"
+    src="https://github-readme-stats.vercel.app/api/pin/?username=SudoNguyenNN&repo=Linux_Basic&theme=merko" />
+</a>
 
-  <a href="https://github.com/SudoNguyenNN/Administrator-Security">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SudoNguyenNN&repo=Administrator-Security&theme=radical" />
-  </a>
+<!-- ================= SECURITY ================= -->
+<a href="https://github.com/SudoNguyenNN/Administrator-Security">
+  <img align="center"
+    src="https://github-readme-stats.vercel.app/api/pin/?username=SudoNguyenNN&repo=Administrator-Security&theme=radical" />
+</a>
 
-  <a href="https://github.com/SudoNguyenNN/DepOps">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SudoNguyenNN&repo=DepOps&theme=github_dark" />
-  </a>
+<!-- ================= DEVOPS ================= -->
+<a href="https://github.com/SudoNguyenNN/DepOps">
+  <img align="center"
+    src="https://github-readme-stats.vercel.app/api/pin/?username=SudoNguyenNN&repo=DepOps&theme=github_dark" />
+</a>
 
-  <a href="https://github.com/SudoNguyenNN/AWS">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SudoNguyenNN&repo=AWS&theme=blue-green" />
-  </a>
-</p>
+<!-- ================= AWS ================= -->
+<a href="https://github.com/SudoNguyenNN/AWS">
+  <img align="center"
+    src="https://github-readme-stats.vercel.app/api/pin/?username=SudoNguyenNN&repo=AWS&theme=blue-green" />
+</a>
