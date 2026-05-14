@@ -5,9 +5,9 @@
 
 [![Linkedin](https://github.com/SudoNguyenNN/SudoNguyenNN/blob/main/linkedin.jpg) LinkedIn](https://www.linkedin.com/in/sudonguyennn/) [![GitHub](https://github.com/SudoNguyenNN/SudoNguyenNN/blob/main/github1.jpg) GitHub](https://github.com/SudoNguyenNN/) [![Facebook](https://github.com/SudoNguyenNN/SudoNguyenNN/blob/main/fb.jpg) Facebook](https://www.facebook.com/sudo.nguyennn/)
 
-
+<p align="center">
 ![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SudoNguyenNN&theme=github_dark)
-
+</p>
 
 <a href="https://github.com/SudoNguyenNN/CCNA/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
