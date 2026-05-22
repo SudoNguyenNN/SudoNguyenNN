@@ -1,5 +1,5 @@
 ### WELCOME TO MY PAGE 👋👋👋
-- 👋 Hi, My name is Nguyen Ngoc, My major is IT System, and I'm currently working at Mitsubisi Electric Company
+- 👋 Hi, My name is Nguyen Ngoc, My major is IT System, and I'm currently working at Mitsubishi Electric.
 
 ## 📫 How to reach me: 
 
